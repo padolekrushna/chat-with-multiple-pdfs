@@ -1,0 +1,16 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment variables
+.env
+
+# Flask files
+instance/
+*.log
+
+# Ignore specific files
+*.pdf
+*.db
